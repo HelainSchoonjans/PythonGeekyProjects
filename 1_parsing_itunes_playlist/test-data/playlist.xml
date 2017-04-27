@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www
+.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	--snip--
+	<key>Tracks</key>
+	<dict>
+ 		<key>2438</key>
+ 	<dict>
+ 		<key>Track ID</key><integer>2438</integer>
+ 		<key>Name</key><string>Yesterday</string>
+ 		<key>Artist</key><string>The Beatles</string>
+ 		<key>Composer</key><string>Lennon [John], McCartney [Paul]</string>
+ 		<key>Album</key><string>Help!</string>
+	 	</dict>
+	 --snip--
+	</dict>
+ 	<key>Playlists</key>
+ 	<array>
+ 	<dict>
+ 		<key>Name</key><string>Now</string>
+ 		<key>Playlist ID</key><integer>21348</integer>
+ 		--snip--
+ 		<array>
+		<dict>
+ 			<key>Track ID</key><integer>6382</integer>
+		</dict>
+		--snip--
+		</array>
+	</dict>
+</array>
+</dict>
+</plist>
